@@ -1,0 +1,28 @@
+{
+  "name": "asepritetospritesheet",
+  "version": "1.0.0",
+  "description": "Personal small script for converting aseprite layers to spritesheets for modular characters 2D Game",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/YouS4ckIt/AsepriteToSpritesheet.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/YouS4ckIt/AsepriteToSpritesheet/issues"
+  },
+  "homepage": "https://github.com/YouS4ckIt/AsepriteToSpritesheet#readme",
+  "devDependencies": {
+    "@types/node": "^24.1.0",
+    "ts-node": "^10.9.2",
+    "typescript": "^5.8.3"
+  },
+  "dependencies": {
+    "zlib": "^1.0.5"
+  }
+}
